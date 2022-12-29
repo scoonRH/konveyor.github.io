@@ -1,9 +1,9 @@
 +++
 title = "Tackle"
 date = 2022-04-18T19:17:45-06:00
-weight = 4
+weight = 1
 chapter = false
-pre = "<b>4 </b>"
+pre = "<b> </b>"
 +++
 
 Tackle is a collection of tools that support modernizing and migrating applications to Kubernetes. These tools assess applications to determine which option is the appropriate migration strategy for each application:
